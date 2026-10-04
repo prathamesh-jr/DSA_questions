@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/prathamesh-jr/DSA_questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prathamesh-jr/DSA_questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/prathamesh-jr/DSA_questions/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-jr/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prathamesh-jr/DSA_questions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-jr/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/prathamesh-jr/DSA_questions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-jr/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
