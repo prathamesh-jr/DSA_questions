@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/prathamesh-jr/DSA_questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prathamesh-jr/DSA_questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/prathamesh-jr/DSA_questions/tree/master/0066-plus-one) |
@@ -28,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/prathamesh-jr/DSA_questions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-jr/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0283-move-zeroes) |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prathamesh-jr/DSA_questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
