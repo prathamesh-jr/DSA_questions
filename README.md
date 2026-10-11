@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/prathamesh-jr/DSA_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/prathamesh-jr/DSA_questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/0018-4sum) |
@@ -24,6 +25,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prathamesh-jr/DSA_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prathamesh-jr/DSA_questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-jr/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prathamesh-jr/DSA_questions/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prathamesh-jr/DSA_questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
