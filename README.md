@@ -43,6 +43,7 @@
 | [1324-print-words-vertically](https://github.com/prathamesh-jr/DSA_questions/tree/master/1324-print-words-vertically) |
 | [1329-sort-the-matrix-diagonally](https://github.com/prathamesh-jr/DSA_questions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/prathamesh-jr/DSA_questions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1436-destination-city](https://github.com/prathamesh-jr/DSA_questions/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/prathamesh-jr/DSA_questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -56,6 +57,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prathamesh-jr/DSA_questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-unique-number-of-occurrences](https://github.com/prathamesh-jr/DSA_questions/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/prathamesh-jr/DSA_questions/tree/master/1436-destination-city) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [0949-largest-time-for-given-digits](https://github.com/prathamesh-jr/DSA_questions/tree/master/0949-largest-time-for-given-digits) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/prathamesh-jr/DSA_questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1324-print-words-vertically](https://github.com/prathamesh-jr/DSA_questions/tree/master/1324-print-words-vertically) |
+| [1436-destination-city](https://github.com/prathamesh-jr/DSA_questions/tree/master/1436-destination-city) |
 ## Enumeration
 |  |
 | ------- |
