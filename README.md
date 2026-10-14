@@ -25,6 +25,7 @@
 | [0679-24-game](https://github.com/prathamesh-jr/DSA_questions/tree/master/0679-24-game) |
 | [0853-car-fleet](https://github.com/prathamesh-jr/DSA_questions/tree/master/0853-car-fleet) |
 | [0879-profitable-schemes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0879-profitable-schemes) |
+| [0942-di-string-match](https://github.com/prathamesh-jr/DSA_questions/tree/master/0942-di-string-match) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 | [0075-sort-colors](https://github.com/prathamesh-jr/DSA_questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-jr/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0283-move-zeroes) |
+| [0942-di-string-match](https://github.com/prathamesh-jr/DSA_questions/tree/master/0942-di-string-match) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prathamesh-jr/DSA_questions/tree/master/0011-container-with-most-water) |
+| [0942-di-string-match](https://github.com/prathamesh-jr/DSA_questions/tree/master/0942-di-string-match) |
 ## Quicksort
 |  |
 | ------- |
@@ -129,4 +132,8 @@
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0879-profitable-schemes) |
+## String
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/prathamesh-jr/DSA_questions/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
