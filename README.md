@@ -28,6 +28,7 @@
 | [0942-di-string-match](https://github.com/prathamesh-jr/DSA_questions/tree/master/0942-di-string-match) |
 | [0949-largest-time-for-given-digits](https://github.com/prathamesh-jr/DSA_questions/tree/master/0949-largest-time-for-given-digits) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prathamesh-jr/DSA_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prathamesh-jr/DSA_questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/prathamesh-jr/DSA_questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/prathamesh-jr/DSA_questions/tree/master/0217-contains-duplicate) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prathamesh-jr/DSA_questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/prathamesh-jr/DSA_questions/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prathamesh-jr/DSA_questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1631-path-with-minimum-effort](https://github.com/prathamesh-jr/DSA_questions/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
