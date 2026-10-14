@@ -35,6 +35,7 @@
 | [1024-video-stitching](https://github.com/prathamesh-jr/DSA_questions/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prathamesh-jr/DSA_questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1191-k-concatenation-maximum-sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/prathamesh-jr/DSA_questions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -125,6 +126,7 @@
 | [0879-profitable-schemes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0879-profitable-schemes) |
 | [1024-video-stitching](https://github.com/prathamesh-jr/DSA_questions/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1191-k-concatenation-maximum-sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/1191-k-concatenation-maximum-sum) |
 ## Stack
 |  |
 | ------- |
