@@ -23,6 +23,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/prathamesh-jr/DSA_questions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/prathamesh-jr/DSA_questions/tree/master/0679-24-game) |
+| [0832-flipping-an-image](https://github.com/prathamesh-jr/DSA_questions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/prathamesh-jr/DSA_questions/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/prathamesh-jr/DSA_questions/tree/master/0853-car-fleet) |
 | [0879-profitable-schemes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0879-profitable-schemes) |
@@ -69,6 +70,7 @@
 | [0075-sort-colors](https://github.com/prathamesh-jr/DSA_questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-jr/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/prathamesh-jr/DSA_questions/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/prathamesh-jr/DSA_questions/tree/master/0942-di-string-match) |
 ## Prefix Sum
 |  |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/prathamesh-jr/DSA_questions/tree/master/0393-utf-8-validation) |
+| [0832-flipping-an-image](https://github.com/prathamesh-jr/DSA_questions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prathamesh-jr/DSA_questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/prathamesh-jr/DSA_questions/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0832-flipping-an-image](https://github.com/prathamesh-jr/DSA_questions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/prathamesh-jr/DSA_questions/tree/master/0835-image-overlap) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prathamesh-jr/DSA_questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -183,4 +187,8 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/prathamesh-jr/DSA_questions/tree/master/1631-path-with-minimum-effort) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/prathamesh-jr/DSA_questions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
