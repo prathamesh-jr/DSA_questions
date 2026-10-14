@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-jr/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/prathamesh-jr/DSA_questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0283-move-zeroes) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prathamesh-jr/DSA_questions/tree/master/0042-trapping-rain-water) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 ## Stack
 |  |
 | ------- |
