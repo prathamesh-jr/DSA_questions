@@ -40,6 +40,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/prathamesh-jr/DSA_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/prathamesh-jr/DSA_questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prathamesh-jr/DSA_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1324-print-words-vertically](https://github.com/prathamesh-jr/DSA_questions/tree/master/1324-print-words-vertically) |
 | [1329-sort-the-matrix-diagonally](https://github.com/prathamesh-jr/DSA_questions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -188,6 +189,7 @@
 | [0942-di-string-match](https://github.com/prathamesh-jr/DSA_questions/tree/master/0942-di-string-match) |
 | [0949-largest-time-for-given-digits](https://github.com/prathamesh-jr/DSA_questions/tree/master/0949-largest-time-for-given-digits) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/prathamesh-jr/DSA_questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1324-print-words-vertically](https://github.com/prathamesh-jr/DSA_questions/tree/master/1324-print-words-vertically) |
 ## Enumeration
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/prathamesh-jr/DSA_questions/tree/master/0832-flipping-an-image) |
+| [1324-print-words-vertically](https://github.com/prathamesh-jr/DSA_questions/tree/master/1324-print-words-vertically) |
 ## Trie
 |  |
 | ------- |
