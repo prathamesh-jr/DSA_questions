@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-jr/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/prathamesh-jr/DSA_questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0283-move-zeroes) |
+| [0393-utf-8-validation](https://github.com/prathamesh-jr/DSA_questions/tree/master/0393-utf-8-validation) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/prathamesh-jr/DSA_questions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/prathamesh-jr/DSA_questions/tree/master/0679-24-game) |
@@ -60,6 +61,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0393-utf-8-validation](https://github.com/prathamesh-jr/DSA_questions/tree/master/0393-utf-8-validation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prathamesh-jr/DSA_questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
