@@ -37,6 +37,7 @@
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prathamesh-jr/DSA_questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1191-k-concatenation-maximum-sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/prathamesh-jr/DSA_questions/tree/master/1207-unique-number-of-occurrences) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/prathamesh-jr/DSA_questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/prathamesh-jr/DSA_questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0942-di-string-match](https://github.com/prathamesh-jr/DSA_questions/tree/master/0942-di-string-match) |
 | [0949-largest-time-for-given-digits](https://github.com/prathamesh-jr/DSA_questions/tree/master/0949-largest-time-for-given-digits) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/prathamesh-jr/DSA_questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Enumeration
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/prathamesh-jr/DSA_questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1631-path-with-minimum-effort](https://github.com/prathamesh-jr/DSA_questions/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
@@ -208,4 +211,8 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/prathamesh-jr/DSA_questions/tree/master/0832-flipping-an-image) |
+## Trie
+|  |
+| ------- |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/prathamesh-jr/DSA_questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
