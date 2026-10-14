@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/prathamesh-jr/DSA_questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0283-move-zeroes) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/prathamesh-jr/DSA_questions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -94,4 +95,16 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prathamesh-jr/DSA_questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/prathamesh-jr/DSA_questions/tree/master/0675-cut-off-trees-for-golf-event) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/prathamesh-jr/DSA_questions/tree/master/0675-cut-off-trees-for-golf-event) |
+## Matrix
+|  |
+| ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/prathamesh-jr/DSA_questions/tree/master/0675-cut-off-trees-for-golf-event) |
 <!---LeetCode Topics End-->
