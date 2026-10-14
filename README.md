@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0283-move-zeroes) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/prathamesh-jr/DSA_questions/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/prathamesh-jr/DSA_questions/tree/master/0679-24-game) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/prathamesh-jr/DSA_questions/tree/master/0066-plus-one) |
+| [0679-24-game](https://github.com/prathamesh-jr/DSA_questions/tree/master/0679-24-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prathamesh-jr/DSA_questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/prathamesh-jr/DSA_questions/tree/master/0675-cut-off-trees-for-golf-event) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/prathamesh-jr/DSA_questions/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
