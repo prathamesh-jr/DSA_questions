@@ -23,6 +23,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/prathamesh-jr/DSA_questions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/prathamesh-jr/DSA_questions/tree/master/0679-24-game) |
+| [0853-car-fleet](https://github.com/prathamesh-jr/DSA_questions/tree/master/0853-car-fleet) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@
 | [0018-4sum](https://github.com/prathamesh-jr/DSA_questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/prathamesh-jr/DSA_questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/prathamesh-jr/DSA_questions/tree/master/0217-contains-duplicate) |
+| [0853-car-fleet](https://github.com/prathamesh-jr/DSA_questions/tree/master/0853-car-fleet) |
 ## Greedy
 |  |
 | ------- |
@@ -91,10 +93,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prathamesh-jr/DSA_questions/tree/master/0042-trapping-rain-water) |
+| [0853-car-fleet](https://github.com/prathamesh-jr/DSA_questions/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prathamesh-jr/DSA_questions/tree/master/0042-trapping-rain-water) |
+| [0853-car-fleet](https://github.com/prathamesh-jr/DSA_questions/tree/master/0853-car-fleet) |
 ## Divide and Conquer
 |  |
 | ------- |
