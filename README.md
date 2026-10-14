@@ -39,6 +39,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/prathamesh-jr/DSA_questions/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/prathamesh-jr/DSA_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/prathamesh-jr/DSA_questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prathamesh-jr/DSA_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/prathamesh-jr/DSA_questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -61,6 +62,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-jr/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prathamesh-jr/DSA_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prathamesh-jr/DSA_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/prathamesh-jr/DSA_questions/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
