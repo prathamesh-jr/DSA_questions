@@ -30,6 +30,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/prathamesh-jr/DSA_questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1627-graph-connectivity-with-threshold](https://github.com/prathamesh-jr/DSA_questions/tree/master/1627-graph-connectivity-with-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0066-plus-one](https://github.com/prathamesh-jr/DSA_questions/tree/master/0066-plus-one) |
 | [0679-24-game](https://github.com/prathamesh-jr/DSA_questions/tree/master/0679-24-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prathamesh-jr/DSA_questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1627-graph-connectivity-with-threshold](https://github.com/prathamesh-jr/DSA_questions/tree/master/1627-graph-connectivity-with-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,4 +154,12 @@
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Union-Find
+|  |
+| ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/prathamesh-jr/DSA_questions/tree/master/1627-graph-connectivity-with-threshold) |
+## Number Theory
+|  |
+| ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/prathamesh-jr/DSA_questions/tree/master/1627-graph-connectivity-with-threshold) |
 <!---LeetCode Topics End-->
