@@ -29,6 +29,7 @@
 | [0949-largest-time-for-given-digits](https://github.com/prathamesh-jr/DSA_questions/tree/master/0949-largest-time-for-given-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/prathamesh-jr/DSA_questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0075-sort-colors](https://github.com/prathamesh-jr/DSA_questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/prathamesh-jr/DSA_questions/tree/master/0217-contains-duplicate) |
 | [0853-car-fleet](https://github.com/prathamesh-jr/DSA_questions/tree/master/0853-car-fleet) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/prathamesh-jr/DSA_questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Greedy
 |  |
 | ------- |
