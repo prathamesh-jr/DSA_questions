@@ -40,6 +40,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/prathamesh-jr/DSA_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/prathamesh-jr/DSA_questions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prathamesh-jr/DSA_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1329-sort-the-matrix-diagonally](https://github.com/prathamesh-jr/DSA_questions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/prathamesh-jr/DSA_questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -105,6 +106,7 @@
 | [0075-sort-colors](https://github.com/prathamesh-jr/DSA_questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/prathamesh-jr/DSA_questions/tree/master/0217-contains-duplicate) |
 | [0853-car-fleet](https://github.com/prathamesh-jr/DSA_questions/tree/master/0853-car-fleet) |
+| [1329-sort-the-matrix-diagonally](https://github.com/prathamesh-jr/DSA_questions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/prathamesh-jr/DSA_questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Greedy
 |  |
@@ -164,6 +166,7 @@
 | [0835-image-overlap](https://github.com/prathamesh-jr/DSA_questions/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/prathamesh-jr/DSA_questions/tree/master/0861-score-after-flipping-matrix) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prathamesh-jr/DSA_questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1329-sort-the-matrix-diagonally](https://github.com/prathamesh-jr/DSA_questions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1631-path-with-minimum-effort](https://github.com/prathamesh-jr/DSA_questions/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
