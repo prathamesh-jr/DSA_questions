@@ -32,6 +32,7 @@
 | [0949-largest-time-for-given-digits](https://github.com/prathamesh-jr/DSA_questions/tree/master/0949-largest-time-for-given-digits) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/prathamesh-jr/DSA_questions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prathamesh-jr/DSA_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1024-video-stitching](https://github.com/prathamesh-jr/DSA_questions/tree/master/1024-video-stitching) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prathamesh-jr/DSA_questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -101,6 +102,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/prathamesh-jr/DSA_questions/tree/master/0861-score-after-flipping-matrix) |
 | [0942-di-string-match](https://github.com/prathamesh-jr/DSA_questions/tree/master/0942-di-string-match) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/prathamesh-jr/DSA_questions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1024-video-stitching](https://github.com/prathamesh-jr/DSA_questions/tree/master/1024-video-stitching) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/prathamesh-jr/DSA_questions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 ## Quicksort
 |  |
@@ -116,6 +118,7 @@
 | [0042-trapping-rain-water](https://github.com/prathamesh-jr/DSA_questions/tree/master/0042-trapping-rain-water) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/prathamesh-jr/DSA_questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0879-profitable-schemes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0879-profitable-schemes) |
+| [1024-video-stitching](https://github.com/prathamesh-jr/DSA_questions/tree/master/1024-video-stitching) |
 ## Stack
 |  |
 | ------- |
