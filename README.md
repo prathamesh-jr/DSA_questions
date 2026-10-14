@@ -26,6 +26,7 @@
 | [0853-car-fleet](https://github.com/prathamesh-jr/DSA_questions/tree/master/0853-car-fleet) |
 | [0879-profitable-schemes](https://github.com/prathamesh-jr/DSA_questions/tree/master/0879-profitable-schemes) |
 | [0942-di-string-match](https://github.com/prathamesh-jr/DSA_questions/tree/master/0942-di-string-match) |
+| [0949-largest-time-for-given-digits](https://github.com/prathamesh-jr/DSA_questions/tree/master/0949-largest-time-for-given-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/prathamesh-jr/DSA_questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0679-24-game](https://github.com/prathamesh-jr/DSA_questions/tree/master/0679-24-game) |
+| [0949-largest-time-for-given-digits](https://github.com/prathamesh-jr/DSA_questions/tree/master/0949-largest-time-for-given-digits) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -136,4 +138,9 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/prathamesh-jr/DSA_questions/tree/master/0942-di-string-match) |
+| [0949-largest-time-for-given-digits](https://github.com/prathamesh-jr/DSA_questions/tree/master/0949-largest-time-for-given-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0949-largest-time-for-given-digits](https://github.com/prathamesh-jr/DSA_questions/tree/master/0949-largest-time-for-given-digits) |
 <!---LeetCode Topics End-->
